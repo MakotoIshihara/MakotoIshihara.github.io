@@ -349,8 +349,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: ["ishihara"]
-  first_name: ["makoto", "m."]
+  last_name: [Ishihara]
+  first_name: [M.]
 
   style: apa
   locale: en
