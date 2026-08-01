@@ -28,7 +28,7 @@ cv:
         end_date: Mar. 2025
         highlights:
           - "Supervisor: Prof. Masahiro Takeoka"
-          - "Thesis: Long-distance quantum key distribution protocols with single-photon interference (単一光子干渉を用いた長距離量子鍵配送方式に関する研究)"
+          - "Thesis: Long-distance quantum key distribution protocols with single-photon interference"
 
       - institution: Department of Electronics and Electrical Engineering, Keio University
         location: Yokohama, Japan
@@ -37,45 +37,24 @@ cv:
         end_date: Mar. 2023
         highlights:
           - "Supervisor: Prof. Masahiro Takeoka"
-          - "Thesis: Research on capacity of quantum channels with entanglement sources (エンタングルメント発生源を含む量子チャンネルにおける通信容量限界に関する研究)"
+          - "Thesis: Research on capacity of quantum channels with entanglement sources"
 
-    # Experience:
-    #   - company: Institute for Advanced Study, Princeton University
-    #     position: Professor of Theoretical Physics
-    #     location: Princeton University, NJ
-    #     start_date: 1933
-    #     end_date: 1955
-    #     summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-    #     highlights:
-    #       - Relativity
-    #       - Description 2.
+    Experience:
+      - company: PQI, Center for Quantum Technology, Korea Institute of Science and Technology
+        position: Long-term internship
+        location: Seoul, Korea
+        start_date: Mar. 2026
+        end_date: Present
+        highlights:
+          - "Supervisor: Prof. Yong-Su Kim"
 
-    #   - company: California Institute of Technology
-    #     position: Visiting Professor
-    #     location: Pasadena, California, US
-    #     start_date: 1933
-    #     end_date: 1933
-    #     highlights:
-    #       - Description 1.
-    #       - Description 2.
-
-    #   - company: Kaiser Wilhelm Institute for Physics
-    #     position: Director
-    #     location: Berlin, Germany
-    #     start_date: 1917
-    #     end_date: 1933
-
-    #   - company: Karl-Ferdinand University
-    #     position: Professor of Theoretical Physics
-    #     location: Prague, Czechoslovakia
-    #     start_date: 1911
-    #     end_date: 1917
-
-    #   - company: University of Zurich
-    #     position: Associate Professor of Theoretical Physics
-    #     location: Zurich, Switzerland
-    #     start_date: 1909
-    #     end_date: 1911
+      - company: QPIT, Department of Physics, Technical University of Denmark
+        position: Guest Ph.D. student
+        location: Kongens Lyngby, Denmark
+        start_date: Sep. 2025
+        end_date: Nov. 2025
+        highlights:
+          - "Supervisor: Prof. Ulrik L. Andersen"
 
     # Volunteer:
     #   - company: People's Climate March
@@ -97,12 +76,19 @@ cv:
         url: https://doctoral-support.keio.ac.jp/spring/
         summary: 7.5 M yen for three years
 
+      - title: Research Encouragement Scholarship for Graduate Students
+        authors:
+          - "Keio University"
+        date: Apr. 2025 - Mar. 2027
+        awarder: Keio University
+        summary: 1 M yen for two years
+
       - title: KEIO Engineering Foundation Award
         authors:
           - "KEIO Engineering Foundation"
         date: Mar. 2023
         awarder: KEIO Engineering Foundation
-        summary: Awarded for outstanding scientific achievement
+        summary: Recognized for academic excellence during undergraduate studies
         url: http://www.keiokougakukai.org/sub-text/20230323kougakukaisyou.html
 
     # Publications:
