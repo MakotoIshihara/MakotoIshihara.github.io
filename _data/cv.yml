@@ -19,7 +19,7 @@ cv:
         start_date: Apr. 2025
         end_date: Present
         highlights:
-          - Supervisor: Prof. Masahiro Takeoka
+          - "Supervisor: Prof. Masahiro Takeoka"
 
       - institution: Department of Electronics and Electrical Engineering, Keio University
         location: Yokohama, Japan
@@ -27,8 +27,8 @@ cv:
         start_date: Apr. 2023
         end_date: Mar. 2025
         highlights:
-          - Supervisor: Prof. Masahiro Takeoka
-          - Thesis: Long-distance quantum key distribution protocols with single-photon interference (単一光子干渉を用いた長距離量子鍵配送方式に関する研究)
+          - "Supervisor: Prof. Masahiro Takeoka"
+          - "Thesis: Long-distance quantum key distribution protocols with single-photon interference (単一光子干渉を用いた長距離量子鍵配送方式に関する研究)"
 
       - institution: Department of Electronics and Electrical Engineering, Keio University
         location: Yokohama, Japan
@@ -36,8 +36,8 @@ cv:
         start_date: Apr. 2019
         end_date: Mar. 2023
         highlights:
-          - Supervisor: Prof. Masahiro Takeoka
-          - Thesis: Research on capacity of quantum channels with entanglement sources (エンタングルメント発生源を含む量子チャンネルにおける通信容量限界に関する研究)
+          - "Supervisor: Prof. Masahiro Takeoka"
+          - "Thesis: Research on capacity of quantum channels with entanglement sources (エンタングルメント発生源を含む量子チャンネルにおける通信容量限界に関する研究)"
 
     # Experience:
     #   - company: Institute for Advanced Study, Princeton University
@@ -88,21 +88,22 @@ cv:
     #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
     #       - "Men of the year 2014 by Time magazine"
 
-    # Awards:
-    #   - title: Nobel Prize in Physics
-    #     authors:
-    #       - "Royal Swedish Academy of Sciences"
-    #     date: 1921-11-01
-    #     awarder: Royal Swedish Academy of Sciences
-    #     url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-    #     summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    Awards:
+      - title: Support for Pioneering Research Initiated by the Next Generation program
+        authors:
+          - "Japan Science and Technology Agency"
+        date: Apr. 2025 - Mar. 2028
+        awarder: Japan Science and Technology Agency
+        url: https://doctoral-support.keio.ac.jp/spring/
+        summary: 7.5 M yen for three years
 
-    #   - title: Max Planck Medal
-    #     authors:
-    #       - "German Physical Society"
-    #     date: 2029
-    #     awarder: German Physical Society
-    #     summary: Awarded for outstanding scientific achievement
+      - title: KEIO Engineering Foundation Award
+        authors:
+          - "KEIO Engineering Foundation"
+        date: Mar. 2023
+        awarder: KEIO Engineering Foundation
+        summary: Awarded for outstanding scientific achievement
+        url: http://www.keiokougakukai.org/sub-text/20230323kougakukaisyou.html
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper
