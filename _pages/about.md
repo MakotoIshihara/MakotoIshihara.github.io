@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Electronics and Electrical Engineering, Keio University, 3-14-1 Hiyoshi, Kohoku-ku, Yokohama 223-8522, Japan
+subtitle: >
+  Department of Electronics and Electrical Engineering, Keio University, 3-14-1 Hiyoshi, Kohoku-ku, Yokohama 223-8522, Japan
 
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -16,7 +17,7 @@ subtitle: Department of Electronics and Electrical Engineering, Keio University,
 #    <p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -30,4 +31,7 @@ latest_posts:
 ---
 
 I'm a Ph.D. student in [Quantum Information and Communication Research Group](https://takeoka.elec.keio.ac.jp/wp/) at Keio University.
+
 I'm interested in Quantum Key Distribution, Quantum Communication, Quantum Network, and so on.
+
+Email: llmakomako.arg1076 [at] keio.jp
