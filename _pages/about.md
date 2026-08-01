@@ -17,7 +17,7 @@ subtitle: >
 #    <p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -35,3 +35,11 @@ I'm a Ph.D. student in [Quantum Information and Communication Research Group](ht
 I'm interested in Quantum Key Distribution, Quantum Communication, Quantum Network, and so on.
 
 Email: llmakomako.arg1076 [at] keio.jp
+
+Links:
+[ORCID](https://orcid.org/0009-0005-8401-3574)
+
+[Google Scholar](https://scholar.google.co.jp/citations?user=7g5zfxoAAAAJ&hl=ja&authuser=1&oi=ao)
+
+[Github](https://github.com/MakotoIshihara)
+
